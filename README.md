@@ -1,31 +1,31 @@
-# Home Credit Capstone-Project
+# Home Credit Capstone Project 🏠💳
 
+## Business Problem 🌐
 
-## Business Problem 
+A significant challenge arises for those with limited credit histories, exposing them to potentially untrustworthy lenders. Home Credit aims to address this issue by creating a positive and secure borrowing experience for the unbanked population.
 
-A significant portion of the population, particularly those with insufficient or non-existent credit histories, are more vulnerable to untrustworthy lenders who may take advantage of them. Home Credit looks to address this problem by providing a positive and safe borrowing experience for the unbanked population.
+## Solution 🎯
 
-## Solution 
-The goal for this project will be the reduction in loan rejections for creditworthy individuals, and the improvement in clients' loan repayment rates compared to previous methods by using the target variable of whether a client is likely to repay the loan or not. This project is aiming to identify a predictive analytical model that will identify the customers who are likely to default or not.
-For this analytics project, we will use the existing dataset and associated data description to identify the appropriate predictors and come up with the best predictive analytical model.
+This project focuses on reducing loan rejections for creditworthy individuals and improving clients' loan repayment rates. By leveraging predictive analytics, the goal is to identify customers likely to repay the loan. The project involves utilizing the existing dataset to pinpoint relevant predictors and construct an effective analytical model.
 
+## My Contributions 🚀
 
-## My Contributions
--Performed extensive EDA on the datasets
--Feature Enginered new attributes and explored its correlation with the target
--Built a LightGBM predictive model with a 72.3% accuracy 
+- Conducted extensive Exploratory Data Analysis (EDA) on the datasets.
+- Engineered new features and explored their correlation with the target variable.
+- Developed a LightGBM predictive model with an accuracy of 72.3%.
 
+## Business Impact 📈
 
-## Business Impact 
--Main impact is that it is going to help minimize the number of borrowers who fail to repay their loans
--Minimizes fininacial damage incurred when borrowers default on their loans 
--Company can identify ways to mitigate risks 
--Help maintain a balanced portfolio by reducing risks and maximizing errors
+- Minimizes loan defaults by identifying potential high-risk borrowers.
+- Reduces financial damage incurred when borrowers default on their loans.
+- Enables the company to proactively mitigate risks and maintain a balanced portfolio.
+- Maximizes efficiency by minimizing errors in loan approval processes.
 
+## Challenges Faced 🤔
 
-## Challenges Faced
--As a group, we tackled extensive datasets, and each member possessed unique strengths and expertise. Initially, establishing a solid approach was challenging due to our varying levels of understanding. Nevertheless, we all demonstrated considerable initiative and a willingness to learn from our mistakes throughout the project. Ultimately, our collective efforts enabled us to successfully complete the task within an impressively short timeframe.
+Navigating through extensive datasets presented initial challenges due to varying levels of understanding within the group. Despite this, collective efforts, a willingness to learn, and unique strengths of each team member contributed to overcoming challenges and successfully completing the project within a short timeframe.
 
+Happy Analyzing! 📊🔍
 
 ## Learnings 
 -I learned to take initiative and enhanced my leadership skills by guiding everyone in this project
